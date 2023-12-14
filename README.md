@@ -1,3 +1,12 @@
+## Hi there  [![](https://visitcount.itsvg.in/api?id=Tejashwini2002&icon=0&color=1)](https://visitcount.itsvg.in)
+
+-- I'm currently learning Advance Java
+-- I'm looking to collaborate on **Java development Projects**
+-- How to reach me: **tejashwiniuhosur@gmail.com**
+-- Pronoun: She/Her
+
+## About Me:
+A motivated and goal-oriented student seeking opportunities to build skills and gain experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejashwinihosur25) 
@@ -13,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Tejashwini2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tejashwini2002&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
