@@ -4,7 +4,7 @@
 ## About Me:
 A motivated and goal-oriented student seeking opportunities to build skills and gain experience.
 
--- I'm currently learning **Advance Java** and **Dynamic Programming** <br>
+<br>
 -- I'm looking to collaborate on **Java development Projects** <br>
 -- How to reach me: **tejashwiniuhosur@gmail.com** <br>
 -- Pronoun: She/Her <br>
