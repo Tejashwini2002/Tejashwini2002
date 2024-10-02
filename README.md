@@ -1,11 +1,11 @@
-## Hi, I'm Tejashwini Hosur
+## Hi, I'm Tejashwini U Hosur
 
 [![](https://visitcount.itsvg.in/api?id=Tejashwini2002&icon=0&color=1)](https://visitcount.itsvg.in)
 ## About Me:
 A motivated and goal-oriented student seeking opportunities to build skills and gain experience.
-
+I am currently pursuing a B.E in CSE at KLS GIT, Belagavi (2021-2025)
 <br>
--- I'm looking to collaborate on **Java development Projects** <br>
+-- I'm looking to collaborate on **Java development Projects** <br
 -- How to reach me: **tejashwiniuhosur@gmail.com** <br>
 -- Pronoun: She/Her <br>
 
