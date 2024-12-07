@@ -4,7 +4,7 @@
 ## About Me:
 A motivated and goal-oriented student seeking opportunities to build skills and gain experience.
 <br>
---I am currently pursuing a B.E in CSE at KLS GIT, Belagavi (2021-2025)
+--I am currently pursuing B.E in CSE at KLS GIT, Belagavi (2021-2025)
 <br>
 -- I'm looking to collaborate on **Java development Projects** <br
 -- How to reach me: **tejashwiniuhosur@gmail.com** <br>
