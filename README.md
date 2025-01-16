@@ -6,7 +6,7 @@ A motivated and goal-oriented student seeking opportunities to build skills and 
 <br>
 --I am currently pursuing B.E in CSE at KLS GIT, Belagavi (2021-2025)
 <br>
--- I'm looking to collaborate on **Java development Projects** <br
+-- <br
 -- How to reach me: **tejashwiniuhosur@gmail.com** <br>
 -- Pronoun: She/Her <br>
 
