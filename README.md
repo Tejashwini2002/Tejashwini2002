@@ -5,6 +5,7 @@
 A motivated and goal-oriented student seeking opportunities to build skills and gain experience.
 <br>
 --I persued B.E in CSE at KLS GIT, Belagavi (2021-2025)
+<br>
 -- Cuurently working as a Software Engineer
 <br>
 -- <br
